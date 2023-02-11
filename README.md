@@ -5,9 +5,13 @@
 #Contributors
 
 Tauhid Ul Islam.
+
 Nabeel Ahmed Ghazali.
+
 Muneeb Khan.
+
 Mohammad Abdul Wasay Ejaz.
+
 
 #How to run the program
 
