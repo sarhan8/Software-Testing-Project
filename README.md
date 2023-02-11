@@ -30,14 +30,24 @@ We have named our robot Jarvis and The robot have the ability of holding one pen
 
 
 ### Commands and their detailed meaning
+
+[N|n] To showup the total menu
+
 [U|u] Pen up
+
 [D|d] Pen down
+
 [R|r] Turn right
+
 [L|l] Turn left
+
 [M s|m s] Move forward s spaces (s is a non-negative integer)
+
 [P|p] Print the N by N array and display the indices
-[C|c] Print current position of the pen and whether it is up or down and its
-facing direction
+
+[C|c] Print current position of the pen and whether it is up or down and its facing direction
+
 [Q|q] Stop the program
-[I n|i n] Initialize the system:
+
+[I n|i n] Initialize the system (n is an integer and size of the row and column of intitail floor array.)
 
